@@ -1,0 +1,14 @@
+{
+  "name": "graphql-and-redux",
+  "version": "1.0.0",
+  "description": "A simple graphql and redux app.",
+  "main": "index.js",
+  "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.3",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
